@@ -1,2 +1,8 @@
 Project:
-a data anal project  to explore how patint inflammation changes over time after surgery
+a data anal project  to explore how patint inflammation changes over time after surgery 
+
+People:
+Jane is a data scientist
+Samit is a statistician
+
+We will need to determine who is responsible forwhat is in this project
